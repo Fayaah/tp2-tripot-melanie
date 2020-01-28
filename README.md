@@ -2,5 +2,5 @@
 
 # B3 Devops - TP 2
 ## Info
-mail: melanie.tripot@ynov.com
+mail: melanie.tripot@ynov.com   
 github_username: Mtripot
